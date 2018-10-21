@@ -3,7 +3,7 @@ The repository contains 4 Jupyter notebooks for the 4 experiments performed. All
 
 The following are the 4 Jupyter notebooks and a brief description of their contents:
 
-1. #### fruit_images_classification_using data augmentation4.ipynb:
+1. #### fruit_images_classification_using data augmentation5.ipynb:
 This notebook contains the first experiment where a self-designed 14-layer convolutional neural net is used for fruit image classification. 
 
 2. #### fruit_images_classification_using_inception v3.ipynb:
